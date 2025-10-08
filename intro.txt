@@ -1,0 +1,9 @@
+Xin chào, tôi là Đỗ Nhật Hào 
+Sinh Viên năm 4 tại ĐH NAM CẦN THƠ
+Tôi thích công nghệ, âm nhạc và du lịch và thể thao
+Sở thích:
+Đá bóng, du lịch, nghe nhạc
+Kỹ năng:
+- Sử dụng Git thành thạo
+- Lập trình Python, C#
+- Thiết kế UI cơ bản
